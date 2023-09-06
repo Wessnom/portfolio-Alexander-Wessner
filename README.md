@@ -1,5 +1,6 @@
 # Alexander Wessner
 
+## Introduction
 
 I am a guy in my late twenties whos walked different paths in life. I have studied computer science at Gothenburg University, Electrical Engineering at Chalmers University, worked at Volvos Main Shipping facility in Torslanda, Gothenburg, and I have also worked as a preschool teacher at a Catholic school. 
 
